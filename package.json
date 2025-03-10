@@ -1,7 +1,6 @@
 {
   "name": "blue-qrdrop",
   "version": "1.0.0",
-  "type": "module",
   "description": "\"# blue-qrdrop\"",
   "main": "index.js",
   "scripts": {
