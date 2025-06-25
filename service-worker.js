@@ -6,8 +6,8 @@ self.addEventListener('install', (event) => {
       return cache.addAll([
         '/blue-qrdrop/', // Root path (adjust if your app is in a subdirectory)
         '/blue-qrdrop/index.html', // Path to index.html
-        '/blue-qrdrop/static/js/main.7218fd4b.js', // Path to JS bundle
-        '/blue-qrdrop/static/css/main.975f4e65.css', // Path to CSS file
+        '/blue-qrdrop/static/js/main.4ceb20de.js', // Path to JS bundle
+        '/blue-qrdrop/static/css/main.15654647.css', // Path to CSS file
         // Add other assets here
       ]);
     })
