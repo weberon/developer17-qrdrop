@@ -34,7 +34,8 @@ const getStaticPath = (link, domain) => {
 };
 
 const FILE_PATH = "./build/index.html"; // Ensure the path is correct
-const DOMAIN = "blue-qrdrop";
+//const DOMAIN = "blue-qrdrop";
+const DOMAIN = "";
 
 const updateUrls = () => {
     try {
