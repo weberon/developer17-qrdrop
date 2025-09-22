@@ -1,13 +1,13 @@
 {
   "packageJsonVersion": "1.0.0",
-  "gitHash": "255a9ed",
-  "gitHashFull": "255a9edb6a22976ebba36c30950cb3373932060d",
-  "gitCommitDate": "2025-09-22T06:01:12.000Z",
+  "gitHash": "2dffa41",
+  "gitHashFull": "2dffa412171074742dca11c258b4013f7ca603ea",
+  "gitCommitDate": "2025-09-22T07:09:40.000Z",
   "gitAuthorName": "Prakhar983",
   "gitAuthorEmail": "154242556+Prakhar983@users.noreply.github.com",
   "gitTag": null,
   "gitBranch": "HEAD",
   "nodejsVersion": "v22.13.1",
   "version": "1.0.0",
-  "buildDate": "2025-09-22T06:02:12.305Z"
+  "buildDate": "2025-09-22T07:10:40.856Z"
 }
